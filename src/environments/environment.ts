@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    baseURL: "https://employee-managment-backend.onrender.com"
+    baseURL: "https://users-management-app.onrender.com"
 }
